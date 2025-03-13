@@ -1,4 +1,4 @@
-﻿
+
 Note: Include this file if including binaries you have the right to distribute.
 Otherwise delete. this file. If you are the software author, you can mention
 this.
